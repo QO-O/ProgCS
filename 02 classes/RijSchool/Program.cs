@@ -7,11 +7,3 @@ class Program
         Console.WriteLine("Hello, World!");
     }
 }
-
-
-
-
-
-TheorieTest
-Dag
-LesUur
