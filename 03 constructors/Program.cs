@@ -3,6 +3,8 @@
  internal void Run()
 {
     QuizVraag quizVraag = new QuizVraag("Hier komt de vraag", "Hier komt het antwoord");
+
+    Quiz quiz = new Quiz(10);
 }
 class Program
 {

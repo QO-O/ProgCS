@@ -10,6 +10,5 @@ class QuizVraag
         this.vraag = QuizVraag;
         this.antwoord = antwoord;   
     }
-    
 }
 
