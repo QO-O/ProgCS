@@ -4,7 +4,7 @@ internal class Student{
     internal string naam;
     internal int leefttijd;
     internal LesPakket lesPakket;
-    internal RijLeraar leraar;
+    internal RijLeraar rijLeraar;
     internal TheorieTest theorieTest;
-    internal RijTest rijTest
+    internal RijTest rijTest;
 }

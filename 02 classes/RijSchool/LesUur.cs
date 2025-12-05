@@ -3,6 +3,6 @@ namespace RijSchool;
 internal class LesUur{
     internal int tijd;
     internal Student student;
-    internal RijLeraar rijleraar;
+    internal RijLeraar rijLeraar;
     internal Auto auto;
 }
