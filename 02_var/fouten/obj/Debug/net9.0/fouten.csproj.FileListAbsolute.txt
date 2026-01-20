@@ -1,0 +1,5 @@
+C:\Users\femke\Documents\School\. M1\PROG - C#\02_var\fouten\obj\Debug\net9.0\fouten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\femke\Documents\School\. M1\PROG - C#\02_var\fouten\obj\Debug\net9.0\fouten.AssemblyInfoInputs.cache
+C:\Users\femke\Documents\School\. M1\PROG - C#\02_var\fouten\obj\Debug\net9.0\fouten.AssemblyInfo.cs
+C:\Users\femke\Documents\School\. M1\PROG - C#\02_var\fouten\obj\Debug\net9.0\fouten.csproj.CoreCompileInputs.cache
+C:\Users\femke\Documents\School\. M1\PROG - C#\02_var\fouten\obj\Debug\net9.0\fouten.sourcelink.json
